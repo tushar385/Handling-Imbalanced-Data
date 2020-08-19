@@ -1,4 +1,4 @@
-# Handling-Imbalanced-Data
+#Different Techniques to Handel Imbalanced Data.
 
 1- Cross Validation like Kfold and Hyperparameter.  
    	 using Logistic Regression.   
